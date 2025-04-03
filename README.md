@@ -1,5 +1,5 @@
 # BRIAN ALEXANDER BUERA 
-![](https://github.com/Braibuera1/presentacion-personal/blob/main/Imagen/Yo.jpg?raw=true)
+![](./Imagen/Yo.jpg)
 ## Datos Personales 
 - Edad: 25
 - Sin Hijos
