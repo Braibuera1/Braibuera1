@@ -2,7 +2,7 @@
 
 ### 🎓 Estudiante de Tecnología & Entusiasta del Desarrollo de Software
 
-Actualmente curso la **Tecnicatura en Análisis de Sistemas** y la **Licenciatura en Gestión de las Tecnologías de la Información**. Me apasiona el desarrollo de software, la mejora continua y la calidad en cada proyecto.
+Actualmente aspiro a la **Licenciatura en Gestión de las Tecnologías de la Información**. Me apasiona el resolver problemas. A la par estudio cursos para complentar: Python, Django, Bases de datos, Testing QA. Todos con proyectos prácticos.
 
 ---
 
@@ -15,20 +15,14 @@ Actualmente curso la **Tecnicatura en Análisis de Sistemas** y la **Licenciatur
 
 ---
 
-### 🚀 Conocimientos y Tecnologías
+### 🚀 Tecnologías
 
-- **Lógica de programación**
-- **Programación Orientada a Objetos (POO)**  
-  (Experiencia práctica con Java y Python)
-- **Ingeniería de Software I**
 - **Testing QA**  
   (Actualmente tomando un curso para reforzar mis conocimientos en calidad de software)
 - **Python** (proyectos universitarios y curso en CoderHouse)
-- **Java** (POO)
-- **Node.js** & **Express** (APIs REST)
-- **Django** (backend)
-- **Bootstrap** (frontend)
+- **Django** 
 - **Git** & **GitHub**
+- **
 
 ---
 
@@ -48,6 +42,8 @@ Actualmente curso la **Tecnicatura en Análisis de Sistemas** y la **Licenciatur
 - **Curso de Python en CoderHouse**
 - **Curso de Testing QA** (en proceso):  
   Profundizando en técnicas y herramientas para asegurar la calidad del software.
+- **Curso de fundamentos de las bases de datos**
+  Actualmente aprendiendo de modelado fisico y logico de DB relacionales, consultas SQL.
 
 ---
 
@@ -59,7 +55,7 @@ Estoy construyendo y mejorando mis repositorios, siempre abierto a sugerencias y
 
 ### 📫 ¿Quieres contactarme?
 
-- [LinkedIn](https://www.linkedin.com/in/brian-buera/)
+<a href = "https://www.linkedin.com/in/brian-buera/" style = "color: black; text-decoration: none;"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="17" height="17"> Linkedin</a> 
 
 ---
 
